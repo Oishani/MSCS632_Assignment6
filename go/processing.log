@@ -1,0 +1,79 @@
+[2025-11-12 18:05:12.258] System initialization started
+[2025-11-12 18:05:12.258] Task 1 added to queue
+[2025-11-12 18:05:12.258] Task 2 added to queue
+[2025-11-12 18:05:12.258] Task 3 added to queue
+[2025-11-12 18:05:12.258] Task 4 added to queue
+[2025-11-12 18:05:12.258] Task 5 added to queue
+[2025-11-12 18:05:12.258] Task 6 added to queue
+[2025-11-12 18:05:12.258] Task 7 added to queue
+[2025-11-12 18:05:12.258] Task 8 added to queue
+[2025-11-12 18:05:12.258] Task 9 added to queue
+[2025-11-12 18:05:12.258] Task 10 added to queue
+[2025-11-12 18:05:12.258] Task 11 added to queue
+[2025-11-12 18:05:12.258] Task 12 added to queue
+[2025-11-12 18:05:12.258] Task 13 added to queue
+[2025-11-12 18:05:12.258] Task 14 added to queue
+[2025-11-12 18:05:12.258] Task 15 added to queue
+[2025-11-12 18:05:12.258] Task 16 added to queue
+[2025-11-12 18:05:12.258] Task 17 added to queue
+[2025-11-12 18:05:12.258] Task 18 added to queue
+[2025-11-12 18:05:12.258] Task 19 added to queue
+[2025-11-12 18:05:12.258] Task 20 added to queue
+[2025-11-12 18:05:12.258] Starting 5 worker goroutines
+[2025-11-12 18:05:12.258] Worker-1 started
+[2025-11-12 18:05:12.258] Worker-4 started
+[2025-11-12 18:05:12.258] Worker-4 processing Task[id=2, description='Process data item 2', data=200]
+[2025-11-12 18:05:12.258] Worker-5 started
+[2025-11-12 18:05:12.258] Worker-5 processing Task[id=3, description='Process data item 3', data=300]
+[2025-11-12 18:05:12.258] Worker-1 processing Task[id=1, description='Process data item 1', data=100]
+[2025-11-12 18:05:12.258] Worker-3 started
+[2025-11-12 18:05:12.258] Worker-3 processing Task[id=4, description='Process data item 4', data=400]
+[2025-11-12 18:05:12.258] Worker-2 started
+[2025-11-12 18:05:12.258] Worker-2 processing Task[id=5, description='Process data item 5', data=500]
+[2025-11-12 18:05:12.329] Worker-3 completed Task 4
+[2025-11-12 18:05:12.329] Worker-3 processing Task[id=6, description='Process data item 6', data=600]
+[2025-11-12 18:05:12.359] Worker-2 completed Task 5
+[2025-11-12 18:05:12.359] Worker-2 processing Task[id=7, description='Process data item 7', data=700]
+[2025-11-12 18:05:12.367] Worker-1 completed Task 1
+[2025-11-12 18:05:12.367] Worker-1 processing Task[id=8, description='Process data item 8', data=800]
+[2025-11-12 18:05:12.386] Worker-4 completed Task 2
+[2025-11-12 18:05:12.386] Worker-4 processing Task[id=9, description='Process data item 9', data=900]
+[2025-11-12 18:05:12.386] Worker-5 completed Task 3
+[2025-11-12 18:05:12.386] Worker-5 processing Task[id=10, description='Process data item 10', data=1000]
+[2025-11-12 18:05:12.440] Worker-4 completed Task 9
+[2025-11-12 18:05:12.440] Worker-4 processing Task[id=11, description='Process data item 11', data=1100]
+[2025-11-12 18:05:12.460] Worker-3 completed Task 6
+[2025-11-12 18:05:12.460] Worker-3 processing Task[id=12, description='Process data item 12', data=1200]
+[2025-11-12 18:05:12.488] Worker-2 completed Task 7
+[2025-11-12 18:05:12.488] Worker-2 processing Task[id=13, description='Process data item 13', data=1300]
+[2025-11-12 18:05:12.513] Worker-1 completed Task 8
+[2025-11-12 18:05:12.513] Worker-1 processing Task[id=14, description='Process data item 14', data=1400]
+[2025-11-12 18:05:12.522] Worker-3 completed Task 12
+[2025-11-12 18:05:12.522] Worker-3 processing Task[id=15, description='Process data item 15', data=1500]
+[2025-11-12 18:05:12.533] Worker-5 completed Task 10
+[2025-11-12 18:05:12.534] Worker-5 processing Task[id=16, description='Process data item 16', data=1600]
+[2025-11-12 18:05:12.577] Worker-4 completed Task 11
+[2025-11-12 18:05:12.577] Worker-4 processing Task[id=17, description='Process data item 17', data=1700]
+[2025-11-12 18:05:12.607] Worker-3 completed Task 15
+[2025-11-12 18:05:12.607] Worker-3 processing Task[id=18, description='Process data item 18', data=1800]
+[2025-11-12 18:05:12.624] Worker-2 completed Task 13
+[2025-11-12 18:05:12.624] Worker-2 processing Task[id=19, description='Process data item 19', data=1900]
+[2025-11-12 18:05:12.638] Worker-5 completed Task 16
+[2025-11-12 18:05:12.638] Worker-5 processing Task[id=20, description='Process data item 20', data=2000]
+[2025-11-12 18:05:12.649] Worker-1 completed Task 14
+[2025-11-12 18:05:12.649] Worker-1 found empty queue, finishing
+[2025-11-12 18:05:12.649] Worker-1 finished after processing 3 tasks
+[2025-11-12 18:05:12.681] Worker-2 completed Task 19
+[2025-11-12 18:05:12.681] Worker-2 found empty queue, finishing
+[2025-11-12 18:05:12.681] Worker-2 finished after processing 4 tasks
+[2025-11-12 18:05:12.714] Worker-5 completed Task 20
+[2025-11-12 18:05:12.715] Worker-5 found empty queue, finishing
+[2025-11-12 18:05:12.715] Worker-5 finished after processing 4 tasks
+[2025-11-12 18:05:12.721] Worker-4 completed Task 17
+[2025-11-12 18:05:12.721] Worker-4 found empty queue, finishing
+[2025-11-12 18:05:12.722] Worker-4 finished after processing 4 tasks
+[2025-11-12 18:05:12.744] Worker-3 completed Task 18
+[2025-11-12 18:05:12.744] Worker-3 found empty queue, finishing
+[2025-11-12 18:05:12.744] Worker-3 finished after processing 5 tasks
+[2025-11-12 18:05:12.744] All workers completed
+[2025-11-12 18:05:12.745] System shutdown complete
